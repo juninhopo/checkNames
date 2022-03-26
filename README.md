@@ -4,3 +4,5 @@
 
 
 * Não pode ser utilizado nenhum nome de empresa famosa por questão de segurança.
+
+* Script utilizado dentro da Ton para um processo na troca de nome fantasia. 
